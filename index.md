@@ -11,7 +11,7 @@ I am a second year MMath CS student in the [Algorithms and Complexity group](htt
 
 ### publications
 
-**Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.** *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid.* Manuscript. [link](http://www.gautamkamath.com/sos.pdf)
+**Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.** *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid.* Manuscript. [arxiv](https://arxiv.org/abs/2111.12981)
 
 ### notes
 
