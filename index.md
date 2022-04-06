@@ -16,6 +16,15 @@ I am a second year MMath CS student in the [Algorithms and Complexity group](htt
 
     * Presented at FORC 2022, non-archival track.
 
+
+### talks
+
+**University of Toronto**, theory seminar, April 2022
+
+**Microsoft Research**, colloquium, February 2022
+
+**University of Waterloo**, student seminar, November 2021
+
 ### notes
 
 Currently I am supported by a Graduate Excellence Award in Computer Science, a David R. Cheriton Graduate Scholarship,
