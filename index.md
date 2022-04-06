@@ -9,12 +9,14 @@ header-includes:
 
 I am a second year MMath CS student in the [Algorithms and Complexity group](https://algcomp.uwaterloo.ca/) at University of Waterloo. I am fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
 
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Jnei_lEAAAAJ)
+
 ### publications
 
 
 **Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.** *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid.* STOC 2022. [arxiv](https://arxiv.org/abs/2111.12981)
 
-    * Presented at FORC 2022, non-archival track.
+    > Presented at FORC 2022, non-archival track.
 
 
 ### talks
