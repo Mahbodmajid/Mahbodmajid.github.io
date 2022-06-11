@@ -14,12 +14,14 @@ I am a second year MMath CS student in the [Algorithms and Complexity group](htt
 ### publications
 
 
-**Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.** *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid.* STOC 2022. [arxiv](https://arxiv.org/abs/2111.12981)
+**Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.** *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid.* STOC 2022. [arxiv](https://arxiv.org/abs/2111.12981) [video](https://youtu.be/GY0tCArubAg)
 
     > Presented at FORC 2022, non-archival track.
 
 
 ### talks
+
+**FORC 2022**, June 2022
 
 **University of Toronto**, theory seminar, April 2022
 
