@@ -5,7 +5,7 @@ header-includes:
     <meta name="keywords" content="algorithms, differential privacy, theoretical machine learning, sum of squares optimization, waterloo, mahbod majid" />
 ---
 
-![](mahbod.jpeg){.headshot}
+![](mahbod.jpg){.headshot}
 
 I am a second year MMath CS student in the [Algorithms and Complexity group](https://algcomp.uwaterloo.ca/) at University of Waterloo. I am fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
 
