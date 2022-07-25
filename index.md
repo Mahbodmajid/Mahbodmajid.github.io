@@ -21,7 +21,7 @@ I am a second year MMath CS student in the [Algorithms and Complexity group](htt
 
 ### talks
 
-**Fields Institute**, July 2022
+**Fields Institute**, Workshop on Differential Privacy and Statistical Data Analysis, July 2022
 
 **FORC 2022**, June 2022
 
