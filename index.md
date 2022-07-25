@@ -23,7 +23,7 @@ I am a second year MMath CS student in the [Algorithms and Complexity group](htt
 
 **Fields Institute**, workshop *Differential Privacy and Statistical Data Analysis*, July 2022
 
-**Harvard University** symposium *Foundations of Responsible Computing*, June 2022
+**Harvard University**, symposium *Foundations of Responsible Computing*, June 2022
 
 **University of Toronto**, theory seminar, April 2022
 
