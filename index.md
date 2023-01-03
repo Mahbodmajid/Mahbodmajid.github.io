@@ -12,7 +12,8 @@ header-includes:
 I am an incoming PhD student at Carnegie Mellon University. I studied my master's in the [algorithms and complexity group](https://algcomp.uwaterloo.ca/) at the University of Waterloo where I was fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jnei_lEAAAAJ) / 
-[DBLP](https://dblp.org/pid/307/5441.html) / 
+[DBLP](https://dblp.org/pid/307/5441.html) /
+[arXiv](https://arxiv.org/a/majid_m_1.html) / 
 [Github](https://github.com/Mahbodmajid) / [Twitter](https://twitter.com/mahbodm_)
 
 
