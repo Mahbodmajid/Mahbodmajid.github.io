@@ -348,3 +348,9 @@ li:before {
 .title {
   font-weight: bold;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
