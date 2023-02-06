@@ -9,7 +9,7 @@ header-includes:
 
 ![](mahbod.jpg){.headshot}
 
-I am an incoming PhD student at Carnegie Mellon University. I studied my master's in the [algorithms and complexity group](https://algcomp.uwaterloo.ca/) at the University of Waterloo where I was fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
+I am a first year PhD student at the Carnegie Mellon University. I studied my master's in the [algorithms and complexity group](https://algcomp.uwaterloo.ca/) at the University of Waterloo where I was fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jnei_lEAAAAJ) / 
 [DBLP](https://dblp.org/pid/307/5441.html) /
