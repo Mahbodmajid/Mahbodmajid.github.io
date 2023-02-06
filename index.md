@@ -25,7 +25,7 @@ I am an incoming PhD student at Carnegie Mellon University. I studied my master'
 <br>
 *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid, Shyam Narayanan.*
 <br>
-In submission. [arxiv](https://arxiv.org/abs/2212.05015)
+STOC 2023. [arxiv](https://arxiv.org/abs/2212.05015)
 
 **Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.**
 <br>
