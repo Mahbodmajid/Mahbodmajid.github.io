@@ -49,7 +49,8 @@ NeurIPS 2024 **(Spotlight Presentation)** [arxiv](https://arxiv.org/abs/2411.022
 *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid, Shyam Narayanan.*
 <br>
 STOC 2023. [arxiv](https://arxiv.org/abs/2212.05015)
-Presented at TPDP 2023. Oral Presentation.
+<br>
+Presented at TPDP 2023 **(Oral Presentation)**.
 
 **Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.**
 <br>
