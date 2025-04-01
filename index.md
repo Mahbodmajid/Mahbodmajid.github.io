@@ -40,7 +40,7 @@ SODA 2025. [arxiv](https://arxiv.org/abs/2405.20405)
 
 **Sample-Efficient Private Learning of Mixtures of Gaussians**
 <br>
-*Hassan Ashtiani, Mahbod Majid, Shyam Narayanan*
+*Hassan Ashtiani, Mahbod Majid, Shyam Narayanan.*
 <br>
 NeurIPS 2024 **(Spotlight Presentation)** [arxiv](https://arxiv.org/abs/2411.02298)
 
