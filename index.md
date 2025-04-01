@@ -1,6 +1,5 @@
 ---
 title: Mahbod Majid
-head_: <link rel="icon" type="image/x-icon" href="favicon.ico" />
 header-includes:
     <meta name="keywords" content="algorithms, differential privacy, theoretical machine learning, sum of squares optimization, waterloo, mahbod majid" />
 ---
