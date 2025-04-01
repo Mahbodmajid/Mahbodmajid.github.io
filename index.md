@@ -41,7 +41,7 @@ SODA 2025. [arxiv](https://arxiv.org/abs/2405.20405)
 
 **Sample-Efficient Private Learning of Mixtures of Gaussians**
 <br>
-Hassan Ashtiani, Mahbod Majid, Shyam Narayanan
+*Hassan Ashtiani, Mahbod Majid, Shyam Narayanan*
 <br>
 NeurIPS 2024 **(Spotlight Presentation)** [arxiv](https://arxiv.org/abs/2411.02298)
 
@@ -50,6 +50,7 @@ NeurIPS 2024 **(Spotlight Presentation)** [arxiv](https://arxiv.org/abs/2411.022
 *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid, Shyam Narayanan.*
 <br>
 STOC 2023. [arxiv](https://arxiv.org/abs/2212.05015)
+Presented at TPDP 2023. Oral Presentation.
 
 **Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.**
 <br>
