@@ -29,7 +29,7 @@ STOC 2025. [arxiv](https://arxiv.org/abs/2503.24321)
 
 **On the Consistent Recovery of Joint Distributions from Conditionals**
 <br>
-*Mahbod Majid, Rattana Pukdee, Vishwajeet Agrawal, Burak Varıcı, Pradeep Kumar Ravikumar.*
+*Mahbod Majid\*, Rattana Pukdee\*, Vishwajeet Agrawal\*, Burak Varıcı, Pradeep Kumar Ravikumar.*
 <br>
 AISTATS 2025.
 
