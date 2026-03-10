@@ -352,6 +352,15 @@ li:before {
   font-weight: bold;
 }
 
+#title-block-header {
+  margin: 0;
+  padding: 0;
+}
+
+#title-block-header .title {
+  margin-top: 0;
+}
+
 .clearfix::after {
   content: "";
   clear: both;
