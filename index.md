@@ -1,7 +1,18 @@
 ---
 title: Mahbod Majid
 header-includes:
+    <meta name="description" content="Mahbod Majid is a PhD student at MIT working on algorithms, differential privacy, and theoretical machine learning." />
     <meta name="keywords" content="algorithms, differential privacy, theoretical machine learning, sum of squares optimization, waterloo, mahbod majid" />
+    <link rel="canonical" href="https://www.mahbodmajid.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Mahbod Majid" />
+    <meta property="og:description" content="PhD student at MIT working on algorithms, differential privacy, and theoretical machine learning." />
+    <meta property="og:url" content="https://www.mahbodmajid.com/" />
+    <meta property="og:image" content="https://www.mahbodmajid.com/mahbod.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mahbod Majid" />
+    <meta name="twitter:description" content="PhD student at MIT working on algorithms, differential privacy, and theoretical machine learning." />
+    <meta name="twitter:image" content="https://www.mahbodmajid.com/mahbod.jpg" />
 ---
 
 <div class="clearfix">
@@ -9,6 +20,8 @@ header-includes:
 ![](mahbod.jpg){.headshot}
 
 I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https://people.csail.mit.edu/moitra/). I studied my master's in the [algorithms and complexity group](https://algcomp.uwaterloo.ca/) at the University of Waterloo where I was fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
+
+
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jnei_lEAAAAJ) / 
 [DBLP](https://dblp.org/pid/307/5441.html) /
@@ -19,6 +32,11 @@ I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https
 </div>
 
 ### publications
+**Computation-Utility-Privacy Tradeoffs in Bayesian Estimation**
+<br>
+*Sitan Chen, Jingqiu Ding, Mahbod Majid, Walter McKelvie.*
+<br>
+STOC 2026. (arxiv link coming soon)
 
 **Sample-Optimal Private Regression in Polynomial Time**
 <br>
@@ -30,7 +48,7 @@ STOC 2025. [arxiv](https://arxiv.org/abs/2503.24321)
 <br>
 *Mahbod Majid\*, Rattana Pukdee\*, Vishwajeet Agrawal\*, Burak Varıcı, Pradeep Kumar Ravikumar.*
 <br>
-AISTATS 2025.
+AISTATS 2025. [paper](https://proceedings.mlr.press/v258/majid25a.html)
 
 **Private Mean Estimation with Person-Level Differential Privacy**
 <br>
@@ -61,22 +79,6 @@ STOC 2022. [arxiv](https://arxiv.org/abs/2111.12981) [video](https://youtu.be/GY
 Presented at FORC 2022, non-archival track.
 <br>
 Presented at TPDP 2022.
-
-
-
-<!-- ### talks
-
-**UC Berkeley**, BLISS seminar, November 2022
-
-**Fields Institute**, workshop *Differential Privacy and Statistical Data Analysis*, July 2022
-
-**Harvard University**, symposium *Foundations of Responsible Computing*, June 2022
-
-**University of Toronto**, theory seminar, April 2022
-
-**Microsoft Research**, colloquium, February 2022
-
-**University of Waterloo**, student seminar, November 2021 -->
 
 ### contact
 *mahbod at mit.edu*
