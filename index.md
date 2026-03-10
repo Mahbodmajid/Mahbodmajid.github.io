@@ -1,18 +1,7 @@
 ---
 title: Mahbod Majid
-header-includes:
-    <meta name="description" content="Mahbod Majid is a PhD student at MIT working on algorithms, differential privacy, and theoretical machine learning." />
-    <meta name="keywords" content="algorithms, differential privacy, theoretical machine learning, sum of squares optimization, waterloo, mahbod majid" />
-    <link rel="canonical" href="https://www.mahbodmajid.com/" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Mahbod Majid" />
-    <meta property="og:description" content="PhD student at MIT working on algorithms, differential privacy, and theoretical machine learning." />
-    <meta property="og:url" content="https://www.mahbodmajid.com/" />
-    <meta property="og:image" content="https://www.mahbodmajid.com/mahbod.jpg" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Mahbod Majid" />
-    <meta name="twitter:description" content="PhD student at MIT working on algorithms, differential privacy, and theoretical machine learning." />
-    <meta name="twitter:image" content="https://www.mahbodmajid.com/mahbod.jpg" />
+include-in-header:
+  - meta-head.html
 ---
 
 <div class="clearfix">
