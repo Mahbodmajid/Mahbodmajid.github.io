@@ -32,6 +32,8 @@ STOC 2026. (arxiv link coming soon)
 *Prashanti Anderson, Ainesh Bakshi, Mahbod Majid, Stefan Tiegel.*
 <br>
 STOC 2025. [arxiv](https://arxiv.org/abs/2503.24321)
+<br>
+Presented at TPDP 2025.
 
 **On the Consistent Recovery of Joint Distributions from Conditionals**
 <br>
@@ -44,12 +46,16 @@ AISTATS 2025. [paper](https://proceedings.mlr.press/v258/majid25a.html)
 *Sushant Agarwal, Gautam Kamath, Mahbod Majid, Argyris Mouzakis, Rose Silver, Jonathan Ullman.*
 <br>
 SODA 2025. [arxiv](https://arxiv.org/abs/2405.20405)
+<br>
+Presented at TPDP 2025.
 
 **Sample-Efficient Private Learning of Mixtures of Gaussians**
 <br>
 *Hassan Ashtiani, Mahbod Majid, Shyam Narayanan.*
 <br>
 NeurIPS 2024 **(Spotlight Presentation)** [arxiv](https://arxiv.org/abs/2411.02298)
+<br>
+Presented at TPDP 2025.
 
 **Robustness Implies Privacy in Statistical Estimation.**
 <br>
