@@ -380,3 +380,20 @@ h3 {
 p + p {
   margin-top: 0.6em;
 }
+
+.publications-list {
+  margin-top: 0.35em;
+}
+
+.publications-list p {
+  margin: 0 0 1.2em 0;
+  padding-left: 0.15em;
+}
+
+.publications-list p em {
+  color: #4f4f4f;
+}
+
+.publications-list a {
+  font-weight: 500;
+}

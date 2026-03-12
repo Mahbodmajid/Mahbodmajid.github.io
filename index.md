@@ -14,13 +14,15 @@ I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jnei_lEAAAAJ) / 
 [DBLP](https://dblp.org/pid/307/5441.html) /
-[arXiv](https://arxiv.org/a/majid_m_1.html) / 
+[arxiv](https://arxiv.org/a/majid_m_1.html) / 
 [Github](https://github.com/Mahbodmajid) / [Twitter](https://twitter.com/mahbodm_)
 
 
 </div>
 
 ### publications
+<div class="publications-list">
+
 **Computation-Utility-Privacy Tradeoffs in Bayesian Estimation**
 <br>
 *Sitan Chen, Jingqiu Ding, Mahbod Majid, Walter McKelvie.*
@@ -75,5 +77,7 @@ Presented at FORC 2022, non-archival track.
 <br>
 Presented at TPDP 2022.
 
-### contact
+</div>
+
+### Contact
 *mahbod at mit.edu*
