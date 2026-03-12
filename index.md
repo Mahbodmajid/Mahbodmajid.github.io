@@ -25,7 +25,7 @@ I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https
 <br>
 *Sitan Chen, Jingqiu Ding, Mahbod Majid, Walter McKelvie.*
 <br>
-STOC 2026. (arxiv link coming soon)
+STOC 2026. (arxiv link coming soon).
 
 **Sample-Optimal Private Regression in Polynomial Time**
 <br>
@@ -57,7 +57,7 @@ NeurIPS 2024 **(Spotlight Presentation)** [arxiv](https://arxiv.org/abs/2411.022
 <br>
 Presented at TPDP 2025.
 
-**Robustness Implies Privacy in Statistical Estimation.**
+**Robustness Implies Privacy in Statistical Estimation**
 <br>
 *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid, Shyam Narayanan.*
 <br>
@@ -65,7 +65,7 @@ STOC 2023. [arxiv](https://arxiv.org/abs/2212.05015)
 <br>
 Presented at TPDP 2023 **(Oral Presentation)**.
 
-**Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism.**
+**Efficient Mean Estimation with Pure Differential Privacy via a Sum-of-Squares Exponential Mechanism**
 <br>
 *Samuel B. Hopkins, Gautam Kamath, Mahbod Majid.* 
 <br>
