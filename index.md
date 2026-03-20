@@ -27,7 +27,7 @@ I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https
 <br>
 *Sitan Chen, Jingqiu Ding, Mahbod Majid, Walter McKelvie.*
 <br>
-STOC 2026. (arxiv link coming soon).
+STOC 2026. [arxiv](https://arxiv.org/abs/2603.18254).
 
 **Sample-Optimal Private Regression in Polynomial Time**
 <br>
