@@ -79,5 +79,5 @@ Presented at TPDP 2022.
 
 </div>
 
-### Contact
+### contact
 *mahbod at mit.edu*
