@@ -10,6 +10,8 @@ include-in-header:
 
 I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https://people.csail.mit.edu/moitra/). I studied my master's in the [algorithms and complexity group](https://algcomp.uwaterloo.ca/) at the University of Waterloo where I was fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
 
+I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026).
+
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jnei_lEAAAAJ) / 
