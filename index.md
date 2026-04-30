@@ -33,7 +33,7 @@ ICML 2026 (to appear).
 <br>
 *Sitan Chen, Jingqiu Ding, Mahbod Majid, Walter McKelvie.*
 <br>
-STOC 2026 (to appear). [arxiv](https://arxiv.org/abs/2603.18254).
+STOC 2026 (to appear). [arxiv](https://arxiv.org/abs/2603.18254)
 <br>
 Presented at TPDP 2026.
 
