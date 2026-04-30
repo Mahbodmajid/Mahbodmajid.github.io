@@ -23,11 +23,19 @@ I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https
 ### publications
 <div class="publications-list">
 
+**Learning Gaussian Graphical Models from a Glauber Trajectory without Mixing**
+<br>
+*Eric Shen\*, Tony Wu\*, Mahbod Majid, Ankur Moitra.*
+<br>
+ICML 2026 (to appear).
+
 **Computation-Utility-Privacy Tradeoffs in Bayesian Estimation**
 <br>
 *Sitan Chen, Jingqiu Ding, Mahbod Majid, Walter McKelvie.*
 <br>
-STOC 2026. [arxiv](https://arxiv.org/abs/2603.18254).
+STOC 2026 (to appear). [arxiv](https://arxiv.org/abs/2603.18254).
+<br>
+Presented at TPDP 2026.
 
 **Sample-Optimal Private Regression in Polynomial Time**
 <br>
