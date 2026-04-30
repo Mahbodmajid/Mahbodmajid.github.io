@@ -89,5 +89,8 @@ Presented at TPDP 2022.
 
 </div>
 
+### other
+I help organize [MIT ML Tea](https://www.csail.mit.edu/taxonomy/term/417) with [Kiril Bangachev](https://bangachevkiril.github.io/) and [Julia Chae](https://juliachae.github.io/).
+
 ### contact
 *mahbod at mit.edu*
