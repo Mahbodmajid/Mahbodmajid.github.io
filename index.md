@@ -25,7 +25,7 @@ I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/upd
 ### publications
 <div class="publications-list">
 
-**Learning Gaussian Graphical Models from a Glauber Trajectory without Mixing**
+**Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing**
 <br>
 *Eric Shen\*, Tony Wu\*, Mahbod Majid, Ankur Moitra.*
 <br>
