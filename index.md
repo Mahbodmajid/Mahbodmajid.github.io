@@ -12,6 +12,8 @@ I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https
 
 I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026).
 
+I am also interning at Apple this summer.
+
 
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Jnei_lEAAAAJ) / 
