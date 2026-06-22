@@ -30,6 +30,8 @@ I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/upd
 *Gavin Brown, Ephraim Linder, Mahbod Majid, Vikrant Singhal.*
 <br>
 Manuscript. [arxiv](https://arxiv.org/abs/2605.27912)
+<br>
+Presented at TPDP 2026.
 
 **Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing**
 <br>
