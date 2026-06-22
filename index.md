@@ -31,11 +31,17 @@ I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/upd
 <br>
 ICML 2026 (to appear).
 
+**Privately Estimating Monotone Statistics in Polynomial Time**
+<br>
+*Gavin Brown, Ephraim Linder, Mahbod Majid, Vikrant Singhal.*
+<br>
+Manuscript. [arxiv](https://arxiv.org/abs/2605.27912)
+
 **Computation-Utility-Privacy Tradeoffs in Bayesian Estimation**
 <br>
 *Sitan Chen, Jingqiu Ding, Mahbod Majid, Walter McKelvie.*
 <br>
-STOC 2026 (to appear). [arxiv](https://arxiv.org/abs/2603.18254)
+STOC 2026. [arxiv](https://arxiv.org/abs/2603.18254)
 <br>
 Presented at TPDP 2026.
 
