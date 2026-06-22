@@ -25,17 +25,17 @@ I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/upd
 ### publications
 <div class="publications-list">
 
-**Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing**
-<br>
-*Eric Shen\*, Tony Wu\*, Mahbod Majid, Ankur Moitra.*
-<br>
-ICML 2026 (to appear).
-
 **Privately Estimating Monotone Statistics in Polynomial Time**
 <br>
 *Gavin Brown, Ephraim Linder, Mahbod Majid, Vikrant Singhal.*
 <br>
 Manuscript. [arxiv](https://arxiv.org/abs/2605.27912)
+
+**Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing**
+<br>
+*Eric Shen\*, Tony Wu\*, Mahbod Majid, Ankur Moitra.*
+<br>
+ICML 2026 (to appear).
 
 **Computation-Utility-Privacy Tradeoffs in Bayesian Estimation**
 <br>
