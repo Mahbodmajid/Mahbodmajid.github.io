@@ -33,6 +33,14 @@ Manuscript. [arxiv](https://arxiv.org/abs/2605.27912)
 <br>
 Presented at TPDP 2026.
 
+**Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy**
+<br>
+*[Gautam Kamath](http://www.gautamkamath.com/), [Mahbod Majid](https://www.mahbodmajid.com/), [Ankur Moitra](https://people.csail.mit.edu/moitra/), [Argyris Mouzakis](https://argymouz.github.io/), and [Jonathan Ullman](https://jonathan-ullman.github.io/research.html#).*
+<br>
+Manuscript.
+<br>
+Presented at TPDP 2026.
+
 **Learning Gaussian Graphical Models from a Glauber Trajectory Without Mixing**
 <br>
 *Eric Shen\*, Tony Wu\*, Mahbod Majid, Ankur Moitra.*
