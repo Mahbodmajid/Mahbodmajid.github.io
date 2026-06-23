@@ -35,7 +35,7 @@ Presented at TPDP 2026.
 
 **Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy**
 <br>
-*Gautam Kamath, Mahbod Majid, Ankur Moitra, Argyris Mouzakis, and Jonathan Ullman.*
+*Gautam Kamath, Mahbod Majid, Ankur Moitra, Argyris Mouzakis, Jonathan Ullman.*
 <br>
 Manuscript.
 <br>
