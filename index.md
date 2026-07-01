@@ -45,7 +45,7 @@ Presented at TPDP 2026.
 <br>
 *Eric Shen\*, Tony Wu\*, Mahbod Majid, Ankur Moitra.*
 <br>
-ICML 2026 (to appear).
+ICML 2026 (to appear). [arxiv](https://arxiv.org/abs/2606.31230)
 
 **Computation-Utility-Privacy Tradeoffs in Bayesian Estimation**
 <br>
