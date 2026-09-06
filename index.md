@@ -10,7 +10,7 @@ include-in-header:
 
 I am a PhD student at MIT, working under the supervision of [Ankur Moitra](https://people.csail.mit.edu/moitra/). I studied my master's in the [algorithms and complexity group](https://algcomp.uwaterloo.ca/) at the University of Waterloo where I was fortunate to be advised by [Gautam Kamath](http://www.gautamkamath.com/).
 
-I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026). I am also interning at Apple this summer.
+I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026). I also interned at Apple this summer.
 
 
 
@@ -104,9 +104,6 @@ Presented at FORC 2022, non-archival track.
 Presented at TPDP 2022.
 
 </div>
-
-### other
-I help organize [MIT ML Tea](https://www.csail.mit.edu/taxonomy/term/417) with [Kiril Bangachev](https://bangachevkiril.github.io/) and [Julia Chae](https://juliachae.github.io/).
 
 ### contact
 *mahbod at mit.edu*
