@@ -29,7 +29,7 @@ I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/upd
 <br>
 *Gavin Brown, Ephraim Linder, Mahbod Majid, Vikrant Singhal.*
 <br>
-Manuscript. [arxiv](https://arxiv.org/abs/2605.27912)
+NeurIPS 2026 (to appear). [arxiv](https://arxiv.org/abs/2605.27912)
 <br>
 Presented at TPDP 2026.
 
