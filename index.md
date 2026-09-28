@@ -25,19 +25,19 @@ I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/upd
 ### publications
 <div class="publications-list">
 
+**Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy**
+<br>
+*Gautam Kamath, Mahbod Majid, Ankur Moitra, Argyris Mouzakis, Jonathan Ullman.*
+<br>
+SODA 2027 (to appear).
+<br>
+Presented at TPDP 2026.
+
 **Privately Estimating Monotone Statistics in Polynomial Time**
 <br>
 *Gavin Brown, Ephraim Linder, Mahbod Majid, Vikrant Singhal.*
 <br>
 NeurIPS 2026 (to appear). [arxiv](https://arxiv.org/abs/2605.27912)
-<br>
-Presented at TPDP 2026.
-
-**Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy**
-<br>
-*Gautam Kamath, Mahbod Majid, Ankur Moitra, Argyris Mouzakis, Jonathan Ullman.*
-<br>
-Manuscript.
 <br>
 Presented at TPDP 2026.
 
