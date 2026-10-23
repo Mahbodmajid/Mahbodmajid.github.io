@@ -29,7 +29,7 @@ I was named a [2026 Apple Scholar in AIML](https://machinelearning.apple.com/upd
 <br>
 *Gautam Kamath, Mahbod Majid, Ankur Moitra, Argyris Mouzakis, Jonathan Ullman.*
 <br>
-SODA 2027 (to appear).
+SODA 2027 (to appear). [arxiv](https://arxiv.org/abs/2610.31612)
 <br>
 Presented at TPDP 2026.
 
